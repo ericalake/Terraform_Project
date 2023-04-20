@@ -1,4 +1,4 @@
-# Terraform_Project
+#Apache2 web server using Terraform
 
 provider "aws" {
   region = "us-east-1"
